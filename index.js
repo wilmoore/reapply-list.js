@@ -4,8 +4,8 @@
  * imports.
  */
 
-let resolve = require('path').resolve
-let reapply = require('reapply')
+var resolve = require('path').resolve
+var reapply = require('reapply')
 
 /*!
  * exports.
